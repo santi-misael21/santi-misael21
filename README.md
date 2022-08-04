@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 #### Soy perseverante. Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
 
 
-Tech Skills: <!--![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182902414-16cca3f3-cb41-464a-abe9-cb87050f1626.png)-->
-Node, JavaScrript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git
+### Tech Skills: <!--![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182902414-16cca3f3-cb41-464a-abe9-cb87050f1626.png)-->
+#### Node, JavaScrript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git
 
 
 
