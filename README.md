@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Santiago 👋
+
+# SANTIAGO ALAMOS
 
 <!--
 **santi-misael21/santi-misael21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
