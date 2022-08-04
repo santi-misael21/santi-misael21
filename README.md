@@ -15,42 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Desarrollador web fullstack. Me siento cómodo tanto en Frontend como en Backend. Destaco que persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. 
+#### Desarrollador web fullstack. Me siento cómodo tanto en Frontend como en Backend. Persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. 
 
 ![cute](https://user-images.githubusercontent.com/94709834/182889499-963eab5d-2a68-4164-a972-d40083b2bca7.gif)
 
-Soy perseverante. Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
+#### Soy perseverante. Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
 
-Mis proyectos:
+### Mis proyectos:
 
-Algunas imágenes de referencia sobre mi Proyecto Individual de Henry
+#### Algunas imágenes de referencia sobre mi Proyecto Individual de Henry
 
-`Landing page` o página de inicio:
+##### `Landing page` o página de inicio:
 
 ![landing](https://user-images.githubusercontent.com/94709834/182841340-1caa2138-6a71-4224-90af-c6f748af79c3.png)
 
-`Loading` o animación representativa de carga:
-
-![loading](https://user-images.githubusercontent.com/94709834/182840998-1011c1fa-dcfc-48eb-8890-16eae58355a4.png)
-
-Parte del `home` o página principal, donde se renderizan 9 cartas por página:
+##### Parte del `home` o página principal, donde se renderizan 9 cartas por página:
 
 ![home](https://user-images.githubusercontent.com/94709834/182840745-5cbaa8dd-a61b-47fc-b88f-a70121f9d6c0.png)!
 
-Receta en detalle:
+##### Receta en detalle:
 
 ![detail1](https://user-images.githubusercontent.com/94709834/182841002-9a982ddf-5b04-48d9-8ff8-dc64c030eca6.png)
 
 ![detail2](https://user-images.githubusercontent.com/94709834/182842253-5fd11ebe-aa37-41ea-97f4-8a0d48419f15.png)
 
-Dietas existentes en la api:
+##### Dietas existentes en la api:
 
 ![diets](https://user-images.githubusercontent.com/94709834/182841099-1fc36315-1ee5-424f-b8eb-f53063ee720c.png)
 
-Formulario de creación de recetas:
+##### Formulario de creación de recetas:
 
 ![create](https://user-images.githubusercontent.com/94709834/182840906-e4ebb762-c7f8-4856-8bc5-306440bf2c41.png)
 
-Notificación de receta creada con éxito:
+##### Notificación de receta creada con éxito:
 
 ![pi imagen para job prep](https://user-images.githubusercontent.com/94709834/182838796-a9a65c19-8919-4cca-aa4b-f878b53fe88d.png)
