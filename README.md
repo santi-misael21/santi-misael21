@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Desarrollador web fullstack. Me siento cómodo tanto en Frontend como en Backend. Destaco que persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. 
+
+![cute](https://user-images.githubusercontent.com/94709834/182889499-963eab5d-2a68-4164-a972-d40083b2bca7.gif)
+
+Soy perseverante. Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
+
+Mis proyectos:
 
 Algunas imágenes de referencia sobre mi Proyecto Individual de Henry
 
