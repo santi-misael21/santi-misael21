@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--[
+![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182900037-5069655b-f480-4974-a5df-5db93b62e671.png)
+](https://nodejs.org)-->
+
+<a href="https://www.google.com/" target="_blank">Google</a>
 
 #### Desarrollador web fullstack. Me siento cómodo tanto en Frontend como en Backend. Persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. 
 
