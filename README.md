@@ -18,13 +18,18 @@ Here are some ideas to get you started:
 ![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182900037-5069655b-f480-4974-a5df-5db93b62e671.png)
 ](https://nodejs.org)-->
 
-<a href="https://www.google.com/" target="_blank">Google</a>
 
 #### Desarrollador web fullstack. Me siento cómodo tanto en Frontend como en Backend. Persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. 
 
 ![cute](https://user-images.githubusercontent.com/94709834/182889499-963eab5d-2a68-4164-a972-d40083b2bca7.gif)
 
 #### Soy perseverante. Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
+
+
+Tech Skills: <!--![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182902414-16cca3f3-cb41-464a-abe9-cb87050f1626.png)-->
+Node, JavaScrript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git
+
+
 
 ### Mis proyectos:
 
