@@ -3,6 +3,10 @@
 <!--
 **santi-misael21/santi-misael21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Imagen sobre mi Proyecto Individual de Henry
+
+![pi imagen para job prep](https://user-images.githubusercontent.com/94709834/182838796-a9a65c19-8919-4cca-aa4b-f878b53fe88d.png)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
