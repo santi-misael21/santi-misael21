@@ -1,6 +1,7 @@
-### Hi, I'm Santiago 👋
 
-# SANTIAGO ALAMOS
+
+# Hi, I'm Santiago Alamos 👋
+
 
 <!--
 **santi-misael21/santi-misael21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,12 +26,14 @@ Here are some ideas to get you started:
 
 <!-- Persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. -->
 
-![cute](https://user-images.githubusercontent.com/94709834/182889499-963eab5d-2a68-4164-a972-d40083b2bca7.gif)
 
 #### I am perseverant. I can thoroughly investigate problems and determine based on that if it is better to fix a detail or rethink a new solution. In addition, I am a great optimizer of resources, referring to performance and project space.
 <!--
 Tengo capacidad para investigar a fondo los problemas y determinar en base a eso si es mejor arreglar un detalle o replantear una nueva solución. Además, soy un gran optimizador de los recursos, refiriendo a rendimiento y espacio de los proyectos.
 -->
+
+![cute](https://user-images.githubusercontent.com/94709834/182889499-963eab5d-2a68-4164-a972-d40083b2bca7.gif)
+
 
 ### Tech Skills: <!--![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182902414-16cca3f3-cb41-464a-abe9-cb87050f1626.png)-->
 #### Node, JavaScrript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git
