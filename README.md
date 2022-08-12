@@ -36,7 +36,7 @@ Tengo capacidad para investigar a fondo los problemas y determinar en base a eso
 
 
 ### Tech Skills: <!--![1200px-Node js_logo svg - copia](https://user-images.githubusercontent.com/94709834/182902414-16cca3f3-cb41-464a-abe9-cb87050f1626.png)-->
-#### Node, JavaScript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git, C++, Arduino, Electronics
+#### Node, JavaScript, React, Redux, Postgres, SQL, Express, HTML, CSS, Git, C++, Arduino, Electronics, English: Level C2
 
 
 
