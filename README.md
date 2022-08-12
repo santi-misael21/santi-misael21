@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ](https://nodejs.org)-->
 
  
-#### Fullstack web developer. I feel right working both in Frontend as in Backend. I persue that my job could be scalable, even if I have to work with a huge amount of data.
+#### Fullstack web developer. I feel right working both in Frontend and in Backend. I pursue that my job could be scalable, even if I have to work with a huge amount of data.
 
 <!-- Persigo que mi trabajo sea escalable, así sea que esté trabajando con una inmensa cantidad de datos. -->
 
